@@ -10,7 +10,6 @@
 Python • C++ • JavaScript • Git • Django • React • TensorFlow
 
 ### 📫 Connect
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) • [Portfolio](https://your-portfolio.com) • aditya@example.com
 
 <a href="https://www.linkedin.com/in/aditya-gupta-267b2b2ab/" target="_blank">
   <img src="linkedin_icon-icons.com_53609.png" width="32" height="32" alt="LinkedIn"/>
