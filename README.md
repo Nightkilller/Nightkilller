@@ -11,9 +11,6 @@
 
 <p align="center">B.Tech CSE • AI  • Python, C++, Web</p>
 
-
-<img src="Wave Loop.gif" width="90%">
-
 ### 🔭 I’m currently working on
 - Emotion detection model, mental-health chatbot, clipboard extension
 
