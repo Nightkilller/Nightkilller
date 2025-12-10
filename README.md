@@ -12,3 +12,7 @@ Python • C++ • JavaScript • Git • Django • React • TensorFlow
 ### 📫 Connect
 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) • [Portfolio](https://your-portfolio.com) • aditya@example.com
 
+<a href="https://www.linkedin.com/in/YOUR_ID">
+  <img src="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/BRANCH/path/to/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+</a>
+
