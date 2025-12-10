@@ -1,6 +1,8 @@
 
 <img src="template.jpg" width="1080px" height="352px" alt="LinkedIn"/>
 
+<img src="Wave Loop.gif" width="90%">
+
 
 
 
