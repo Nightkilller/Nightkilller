@@ -17,8 +17,8 @@ Python • C++ • JavaScript • Git • Django • React • TensorFlow
 </a>
 
 
-<a href="https://www.linkedin.com/in/aditya-gupta-267b2b2ab/" target="_blank">
-  <img src="linkedin_icon-icons.com_53609.png" width="32" height="32" alt="LinkedIn"/>
+<a href="https://instagram.com/aditya_gpta17" target="_blank">
+  <img src="3721672-instagram_108066.png" width="32" height="32" alt="LinkedIn"/>
 </a>
 
 
