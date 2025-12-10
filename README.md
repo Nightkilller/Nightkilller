@@ -1,4 +1,10 @@
 
+<img src="template.jpg" width="1080px" height="352px" alt="LinkedIn"/>
+
+
+
+
+
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20%F0%9F%91%8B,%20I%27m%20Aditya,%20welcome%20to%20my%20%20space....&height=100&width=1000)](https://github.com/Akshay090/svg-banners)
 
 <p align="center">B.Tech CSE • AI  • Python, C++, Web</p>
