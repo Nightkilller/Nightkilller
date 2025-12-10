@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20%F0%9F%91%8B,%20I%27m%20Aditya,%20welcome%20to%20my%20%20space....&height=100&width=1200)](https://github.com/Akshay090/svg-banners)
+
 <p align="center">B.Tech CSE • AI  • Python, C++, Web</p>
 
 ### 🔭 I’m currently working on
@@ -9,3 +11,7 @@ Python • C++ • JavaScript • Git • Django • React • TensorFlow
 
 ### 📫 Connect
 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) • [Portfolio](https://your-portfolio.com) • aditya@example.com
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=AdityaGupta🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=AdityaGupta%20🌟&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
