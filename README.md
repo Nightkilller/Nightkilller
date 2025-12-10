@@ -27,5 +27,9 @@ Python • C++ • JavaScript • Git • Django • React • TensorFlow
 </a>
 
 
+<a href="https://leetcode.com/greekyADi" target="_blank">
+  <img src="leetcode.png" width="32" height="32" />
+</a>
+
 
 
