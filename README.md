@@ -41,7 +41,7 @@ Python • C++ • JavaScript • Git • Django • React • TensorFlow
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nightkilller&theme=2077)
 
 
-![3D Graph](https://github.com/Nightkilller/blob/output/github-contribution-grid-snake.svg)
+![3D Graph](https://github.com/Nightkilller/Nightkilller/blob/output/github-contribution-grid-snake.svg)
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nightkilller&theme=github)
