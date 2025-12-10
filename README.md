@@ -18,13 +18,33 @@
 Python • C++ • JavaScript • Git • Django • React • TensorFlow
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nightkilller)
 
 
+
+
+
+
+
+
+
+## Github Stats 🧾
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nightkilller&theme=2077)
+
+<!-- top languages by repo (donut) and top languages by commit -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nightkilller&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nightkilller&theme=2077)
+
+<!-- summary stats and productive hours -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nightkilller&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nightkilller&theme=2077)
 
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nightkilller&theme=github)
+
+
+
 ### 📫 Connect
 
 <a href="https://www.linkedin.com/in/aditya-gupta-267b2b2ab/" target="_blank">
