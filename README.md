@@ -1,23 +1,19 @@
-<img src="https://raw.githubusercontent.com/Benjamin-Solano/Benjamin-Solano/main/githubanner.JPG"/>
+<img src="banner.jpg"/>
 
 <p align="center">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <a href="https://leetcode.com/greekyADi" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" />
+  <a href="https://x.com/AdityaG15164379" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  <a href="https://www.instagram.com/aditya_gpta17/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
 
 <br>
 
@@ -27,9 +23,8 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Nightkilller </b></em>, a B.Tech CSE student. I enjoy learning about Artificial Intelligence and new technologies. Now I'm working at some little and fun projects to put in practice my knowledge about Python, C++, Web Development and more.
+  Hello There! <em><b> I'm Aditya </b></em>, a B.Tech CSE student. I enjoy learning about Artificial Intelligence and new technologies. Now I'm working on fun projects to put in practice my knowledge about Python, C++, Web Development and more.
 </p>
-
 
 <br/>
 
@@ -44,13 +39,20 @@
 <h2 align="center"> <img src="https://raw.githubusercontent.com/Benjamin-Solano/Benjamin-Solano/main/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -60,9 +62,12 @@
 <h2 align="center"> <img src="https://raw.githubusercontent.com/Benjamin-Solano/Benjamin-Solano/main/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 
 <div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Nightkilller&theme=dark&bg_color=000000&hide_border=false&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightkilller&theme=dark&bg_color=000000&hide_border=false&title_color=ffffff&text_color=ffffff&layout=compact" height="150" />
+</div>
 
- ![](https://nirzak-streak-stats.vercel.app/?user=Nightkilller&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nightkilller&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nightkilller&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%" />
 </div>
