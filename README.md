@@ -1,75 +1,68 @@
+<img src="https://raw.githubusercontent.com/Benjamin-Solano/Benjamin-Solano/main/githubanner.JPG"/>
 
-<img src="template.jpg" width="1080px" height="352px" alt="LinkedIn"/>
-
-
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20%F0%9F%91%8B,%20I%27m%20Aditya,%20welcome%20to%20my%20%20space....&height=100&width=1000)](https://github.com/Akshay090/svg-banners)
-
-
-
-
-
-
-<p align="center">B.Tech CSE • AI  • Python, C++, Web</p>
-
-### 🔭 I’m currently working on
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Emotion+detection+model;Mental-Health+chatbot;AI+%7C+Cybersecurity+%7C+DSA+Learner;Building+Cool+Projects)](https://git.io/typing-svg)
-
-### 🧰 Technologies
-Python • C++ • JavaScript • Git • Django • React • TensorFlow
-
-
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  </a>
+</p>
 
 
+<br>
+
+<h2 align="center"> <img src="https://raw.githubusercontent.com/Benjamin-Solano/Benjamin-Solano/main/imgs/title1.png" width="25"/> <em>About me </em></h2>
+
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+
+<p>
+  Hello There! <em><b> I'm Nightkilller </b></em>, a B.Tech CSE student. I enjoy learning about Artificial Intelligence and new technologies. Now I'm working at some little and fun projects to put in practice my knowledge about Python, C++, Web Development and more.
+</p>
 
 
+<br/>
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Benjamin-Solano/Benjamin-Solano/main/imgs/img3.png" width="15"/>   <em><b> Studying B.Tech Computer Science and Engineering </b></em> <br/>
+   <img src="https://raw.githubusercontent.com/Benjamin-Solano/Benjamin-Solano/main/imgs/img4.png" width="15"/>   <em><b> Interested in AI </b></em><br/>
+   <img src="https://raw.githubusercontent.com/Benjamin-Solano/Benjamin-Solano/main/imgs/img2.png" width="15"/>   <em><b> Developer </b></em><br/>
+</p>
 
+<br/>
+<br/>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/Benjamin-Solano/Benjamin-Solano/main/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
+<br/>
+<br/>
 
-## Github Stats 🧾
+<h2 align="center"> <img src="https://raw.githubusercontent.com/Benjamin-Solano/Benjamin-Solano/main/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nightkilller&theme=2077)
+<div align="center"> 
 
-<!-- top languages by repo (donut) and top languages by commit -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nightkilller&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nightkilller&theme=2077)
+ ![](https://nirzak-streak-stats.vercel.app/?user=Nightkilller&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
 
-<!-- summary stats and productive hours -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nightkilller&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nightkilller&theme=2077)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nightkilller&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
-
-![3D Graph](https://github.com/Nightkilller/Nightkilller/blob/output/github-contribution-grid-snake.svg)
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nightkilller&theme=github)
-
-
-
-### 📫 Connect
-
-<a href="https://www.linkedin.com/in/aditya-gupta-267b2b2ab/" target="_blank">
-  <img src="linkedin_icon-icons.com_53609.png" width="32" height="32" alt="LinkedIn"/>
-</a>
-
-
-
-
-<a href="https://instagram.com/aditya_gpta17" target="_blank">
-  <img src="3721672-instagram_108066.png" width="32" height="32" alt="LinkedIn"/>
-</a>
-
-
-<a href="https://x.com/AdityaG15164379" target="_blank">
-  <img src="twitter_x_new_logo_x_rounded_icon_256078.png" width="32" height="32" alt="LinkedIn"/>
-</a>
-
-
-<a href="https://leetcode.com/greekyADi" target="_blank">
-  <img src="leetcode.png" width="32" height="32" />
-</a>
-
-
-
+</div>
