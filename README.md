@@ -4,6 +4,9 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:guptaa17aug@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://leetcode.com/greekyADi" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
@@ -63,7 +66,12 @@
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Nightkilller&theme=dark&bg_color=000000&hide_border=false&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightkilller&theme=dark&bg_color=000000&hide_border=false&title_color=ffffff&text_color=ffffff&layout=compact" height="150" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nightkilller&theme=dark" width="100%" />
 </div>
 
 <br/>
