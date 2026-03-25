@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<h2 align="center"> <img src="https://raw.githubusercontent.com/Benjamin-Solano/Benjamin-Solano/main/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/Benjamin-Solano/Benjamin-Solano/main/imgs/title3.png" width="25"/> <em> StatisticS </em> </h2>
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Nightkilller&theme=dark&bg_color=000000&hide_border=false&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="150" />
