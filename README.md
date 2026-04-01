@@ -61,13 +61,50 @@
 
 <h2 align="center"> <img src="https://raw.githubusercontent.com/Benjamin-Solano/Benjamin-Solano/main/imgs/title3.png" width="25"/> <em> StatisticS </em> </h2>
 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Nightkilller&theme=dark&bg_color=000000&hide_border=false&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightkilller&theme=dark&bg_color=000000&hide_border=false&title_color=ffffff&text_color=ffffff&layout=compact" height="150" />
+<div align="center">
+  <a href="https://github.com/Nightkilller">
+    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/default/0-profile-details.svg" width="100%" alt="Profile Details" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Nightkilller">
+    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/default/1-repos-per-language.svg" height="150" alt="Repos per Language" />
+  </a>
+  <a href="https://github.com/Nightkilller">
+    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/default/2-most-commit-language.svg" height="150" alt="Most Commit Language" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Nightkilller">
+    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/default/3-stats.svg" height="150" alt="Stats" />
+  </a>
+  <a href="https://github.com/Nightkilller">
+    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/default/4-productive-time.svg" height="150" alt="Productive Time" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Nightkilller&theme=dark&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nightkilller&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
