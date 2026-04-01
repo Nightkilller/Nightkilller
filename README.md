@@ -63,7 +63,7 @@
 
 <div align="center">
   <a href="https://github.com/Nightkilller">
-    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/default/0-profile-details.svg" width="100%" alt="Profile Details" />
+    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details" />
   </a>
 </div>
 
@@ -71,10 +71,10 @@
 
 <div align="center">
   <a href="https://github.com/Nightkilller">
-    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/default/1-repos-per-language.svg" height="150" alt="Repos per Language" />
+    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="150" alt="Repos per Language" />
   </a>
   <a href="https://github.com/Nightkilller">
-    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/default/2-most-commit-language.svg" height="150" alt="Most Commit Language" />
+    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="150" alt="Most Commit Language" />
   </a>
 </div>
 
@@ -82,10 +82,10 @@
 
 <div align="center">
   <a href="https://github.com/Nightkilller">
-    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/default/3-stats.svg" height="150" alt="Stats" />
+    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/github_dark/3-stats.svg" height="150" alt="Stats" />
   </a>
   <a href="https://github.com/Nightkilller">
-    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/default/4-productive-time.svg" height="150" alt="Productive Time" />
+    <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/main/profile-summary-card-output/github_dark/4-productive-time.svg" height="150" alt="Productive Time" />
   </a>
 </div>
 
@@ -106,5 +106,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nightkilller/Nightkilller/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
