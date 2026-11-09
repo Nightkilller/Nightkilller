@@ -126,3 +126,20 @@
   </details>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="giraffe/giraffe.gif" width="220" alt="Aditya's GitHub Giraffe" />
+  <br/>
+  <details>
+    <summary><sub>🦒 <em>About my dynamic GitHub Giraffe</em></sub></summary>
+    <br/>
+    <p align="center">
+      🦒 <b>Neck Height:</b> Stretches taller with every commit (currently at 900+ commits!)<br/>
+      🎨 <b>Spots:</b> Colored by my top languages (JavaScript, TypeScript, Python, Java, Dart)<br/>
+      🌿 <b>Animation:</b> Chewing leaves & swaying gently as I code
+    </p>
+  </details>
+</div>
+
+
