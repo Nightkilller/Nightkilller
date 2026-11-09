@@ -280,3 +280,4 @@ def generate_giraffe_gif(
 if __name__ == "__main__":
     out = sys.argv[1] if len(sys.argv) > 1 else "giraffe/giraffe.gif"
     generate_giraffe_gif("Nightkilller", out)
+

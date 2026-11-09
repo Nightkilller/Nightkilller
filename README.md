@@ -112,23 +112,6 @@
 <br/>
 
 <div align="center">
-  <img src="koi/koi.gif" width="256" alt="Aditya's GitHub Koi" />
-  <br/>
-  <details>
-    <summary><sub>🐟 <em>About my dynamic GitHub Koi companion</em></sub></summary>
-    <br/>
-    <p align="center">
-      🎨 <b>Coat:</b> Derived from my top languages (Python, C++, JavaScript)<br/>
-      🌱 <b>Growth:</b> Scales with total lifetime contributions<br/>
-      ✨ <b>Markings:</b> Fin edges and glints reflect my commit streak<br/>
-      🏊 <b>Motion:</b> Speed and swim behavior mirror my recent coding pace
-    </p>
-  </details>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="giraffe/giraffe.gif" width="220" alt="Aditya's GitHub Giraffe" />
   <br/>
   <details>
@@ -141,5 +124,6 @@
     </p>
   </details>
 </div>
+
 
 
