@@ -127,7 +127,7 @@
 
 
 
-<img src="https://git-safari.vercel.app/api?username=Nightkilller&creature=snowman" width="240" alt="GitHub Snowman" />
+<img src="https://git-safari.vercel.app/api?username=Nightkiller&creature=buffalo" width="260" alt="GitHub Buffalo" />
 
 
 
